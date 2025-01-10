@@ -1,4 +1,14 @@
-## Hi there 👋
+## About Me
+I'm a passionate developer who loves to contribute to the Open-source
+
+- 🌱 I’m currently learning: Advanced TypeScript, DevOps practices, C++ and Golang
+- 🔭 I’m looking to collaborate on: Open-source projects and automation tools
+- 💬 Ask me about: JavaScript, TypeScript, and automation
+- 📫 How to reach me: Im leaftail1880 on discord and [telegram](t.me/leaftail1880)
+
+## GitHub Stats
+![leaftail1880's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaftail1880&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaftail1880&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **leaftail1880/leaftail1880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
